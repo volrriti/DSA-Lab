@@ -1,13 +1,13 @@
 # Data Structure & Algorithm - Lab Report
 Aayam Khand, Roll No.: 3
 
-## Lab 01
+## Lab 01 
 1. [Stack Implementation using Array](Lab-01/01-Stack-Implementation-using-Array.md)
 2. [Infix to Postfix Conversion](Lab-01/02-Infix-to-Postfix-Conversion.md)
-## Lab 2
+## Lab 02 (Evaluation)
 1. [Postfix Evaluation](Lab-02/01-Postfix-Evaluation.md)
 2. [Prefix Evaluation](Lab-02/02-Prefix-Evaluation.md)
-## Lab 3 (Recursion)
+## Lab 03 (Recursion)
 1. [Factorial of a Number using Recursion](Lab-03/01-Factorial-using-Recursion.md)
 2. [Factorial of a Number without Recursion](Lab-03/02-Factorial-without-Recursion.md)
 3. [Fibonacci Series up to n terms](Lab-03/03-Fibonacci-Series.md)
@@ -18,9 +18,9 @@ Aayam Khand, Roll No.: 3
 8. [Display Name Thrice](Lab-03/08-Display-Name.md)
 9. [GCD of Two Numbers](Lab-03/09-GCD.md)
 10. [Tower of Hanoi](Lab-03/10-Tower-of-Hanoi.md)
-## Lab 4
+## Lab 04 (Queue)
 1. [Linear Queue](Lab-04/01-Linear-Queue.md)
 2. [Circular Queue](Lab-04/02-Circular-Queue.md)
-## Lab 5
+## Lab 05 (List)
 1. [List using array](Lab-05/01-Array-List.md)
 2. [Linked List](Lab-05/02-Linked-List.md)
