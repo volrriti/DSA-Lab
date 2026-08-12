@@ -1,3 +1,5 @@
+# Implementation of Stack using Array
+
 ## Algorithm:
 
 **Push:**
