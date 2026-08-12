@@ -1,4 +1,4 @@
-# Implementation of Stack using Array
+# Stack Implementation using Array
 
 ## Algorithm:
 
