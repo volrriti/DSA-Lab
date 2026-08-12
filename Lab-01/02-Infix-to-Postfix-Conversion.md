@@ -1,5 +1,18 @@
 # Infix to Postfix Conversion
 ## Algorithm
+1. Create Stacks `postfixStack` & `operatorStack`
+2. Scan the infix expression
+3. Check:
+	1. If the character is an operand, push it into `postfixStack`
+	2. If the character is `'('`, push it into `operatorStack`
+	3. If the character is `')'`:
+		1. Pop operators from `operatorStack` and push them into `postfixStack` until `'('` is found.
+		2. Remove `'('` from `operatorStack`.
+	4. If the character is an operator:
+		1. Compare precedence with the operator at top of `operatorStack`.
+		2. While the top of `operatorStack` has greater than or equal precedence, pop it and push it into `postfixStack`.
+		3. Push the current operator into `operatorStack`.
+4. Pop all remaining operators from `operatorStack` and push them into `postfixStack`
 
 ---
 ## Program:
