@@ -2,4 +2,4 @@
 ## Lab Report
 
 ## Lab 01
-1. [Implementation of Stack using Array](lab%01/01%Implementation%of%Stack%using%Array.md)
+1. [Implementation of Stack using Array](Lab01/01StackImplementation.md)
