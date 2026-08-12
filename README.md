@@ -1,8 +1,8 @@
 # Data Structure & Algorithm - Lab Report
 
 ## Lab 01
-1. [Stack Implementation using Array](01-Stack-Implementation-using-Array)
-2. [Infix to Postfix Conversion]
+1. [Stack Implementation using Array](Lab-01/01-Stack-Implementation-using-Array)
+2. [Infix to Postfix Conversion](Lab-01/02-Infix-to-Postfix-Conversion)
 ## Lab 2
 1. [Postfix Evaluation]
 2. [Prefix Evaluation]
