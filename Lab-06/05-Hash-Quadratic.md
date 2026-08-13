@@ -97,7 +97,7 @@ int main() {
     HashTable h;  
     int n, key;  
   
-    cout << "Enter number of keys: ";  
+    cout << "Enter number of keys: " << endl;  
     cin >> n;  
   
     cout << "Enter keys:\n";  
@@ -117,7 +117,8 @@ int main() {
 ```
 ## Output
 ```
-Enter number of keys:5
+Enter number of keys:
+5
 
 Enter keys:
 1
