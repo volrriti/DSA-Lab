@@ -30,7 +30,5 @@ Aayam Khand, Roll No.: 3
 3. [Recursive Binary Search](Lab-06/03-Binary-Recursive.md)
 4. [Linear Probing Hash Table](Lab-06/04-Hash-Linear.md)
 5. [Quadratic Probing Hash Table](Lab-06/05-Hash-Quadratic.md)
-6. [Separate Chaining Hash Table](Lab-06/06-Hash-Separate.md)
-7. [Double Hashing Hash Table](Lab-06/07-Hash-Double.md)
 ## Lab 07 (Sort)
 1. [Quick Sort](Lab-07/01-Quick-Sort.md)
