@@ -1,5 +1,4 @@
 # Data Structure & Algorithm - Lab Report
-Aayam Khand, Roll No.: 3
 
 ## Lab 01 (Stack Implementation & Expression Conversion)
 1. [Stack Implementation using Array](Lab-01/01-Stack-Implementation-using-Array.md)
